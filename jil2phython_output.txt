@@ -1,0 +1,14 @@
+3
+0.004 4e-06 4e-09
+89.6
+7.222222222222222
+120.0
+16 16
+10 14
+50.24
+5.0
+535.0
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
